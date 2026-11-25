@@ -78,6 +78,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 
 ## Automatic Speech Recognition (ASR)
 
+**Oruk Fourier 2B: 2.04B Open-Weights English Speech Recognition Model (Qwen3-ASR, CC BY-NC 4.0)** [2026].<br>*Oruk* — #7/68 overall and #1 single-model open-weights on the Hugging Face Open ASR Leaderboard v1.16.3 (4.95% public 7-split mean / 5.52% 9-split avg WER).<br>[[Hugging Face](https://huggingface.co/oruk/oruk-fourier-2b)][[Benchmarks](https://oruk.ai/benchmarks)]<br>
 **Fun-ASR Technical Report** [2025].<br>*Keyu An et al.*<br>[[PDF](https://arxiv.org/abs/2509.12508)][[Github](https://github.com/FunAudioLLM/Fun-ASR)]<br>
 **On decoder-only architecture for speech-to-text and large language model integration** [2023].<br>*Jian Wu, Yashesh Gaur, Zhuo Chen, Long Zhou, Yimeng Zhu, Tianrui Wang, Jinyu Li, Shujie Liu, Bo Ren, Linquan Liu, Yu Wu*<br>[[PDF](https://arxiv.org/abs/2307.03917)]<br>
 **X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages** [2023].<br>*Feilong Chen, Minglun Han, Haozhi Zhao, Qingyang Zhang, Jing Shi, Shuang Xu, Bo Xu*<br>[[PDF](https://arxiv.org/abs/2305.04160)][[Github](https://github.com/phellonchen/X-LLM)]<br>
